@@ -1,0 +1,30 @@
+{
+    "iso": {
+        "ProjectName": "PoolPeek Coin Pools",
+        "Image": "https://poolpeek.com/static/media/ppc.d3173c84.png",
+        "IsoType": "Community ISO",
+        "Status": "Live",
+        "Description": "To Earn PoolPeekCoins (PPC) stake your #ADA with any of the below pools this will enable you to collect PPC tokens from DripDropz",
+        "Tokenomics": "21Million coins have been created. There is 10Million allocated to the DripDrops token distribution project with a further 5Million in reserve. There will be 3Million allocated to the three creator pools & 3Million allocated for future giveaways & incentive stuctures.",
+        "StartDate": "",
+		"EndDate": "",
+		"Twitter":"https://twitter.com/CardanoPoolPeek",
+		"Discord":"https://discord.gg/nzSR3rFkef",
+		"Telegram":"",
+		"Pools": [		
+					"c4039f4fa97ed735b884800d6d605dbc65fbe995c4ba70b532e162a2",
+					"f2fa0dfea7f4caba8cbdd042c4940c783ee57f9516062725b04e19a3",
+					"e80753d6214589d0682aa53cc44cd033a72a4299da8dc82696a93b5e",
+					"29889ecc8151e5a93fcd321cd905eee0f50c8364273550205058bfe8",
+					"2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378",
+					"05e11c24a4de15366c6d548f8847589164d02260b6a059a08c22be2a",
+					"538299a358e79a289c8de779f8cd09dd6a6bb286de717d1f744bb357",
+					"3805681d8d4bc9c7f298c24fdeca3406849e2db84a0708718d96d0b2",
+					"be7e2461a584b6532c972edca711fa466d7d0e8a86b6629fc0784ff6",
+					"c7013e0a9e0f04a0363998cac5db01f08aa466b755a1a91c42b4c4b3",
+					"2cdc5cef88f1c15e19c33fd8f47d9bd89c3d7ee4fa09512fbd44a126",
+					"90e719ff625d4652a6f41568f9cdc0c8ddf90a7556929b4d30298e8c",
+					"111646b0848804b1c0ff51888432c9c4b0b0aa3b55f11ecbd0e36624"
+				 ]                  
+    }
+}
